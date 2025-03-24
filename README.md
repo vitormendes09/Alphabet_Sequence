@@ -33,6 +33,7 @@ AlphabetSequence/
 │   ├── Main.java           # Ponto de entrada da aplicação
 │
 └── README.md               # Documentação
+
 ⚙️ Como Executar
 🛠️ Pré-requisitos
 JDK 17 ou superior instalado no sistema
